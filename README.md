@@ -1,2 +1,2 @@
-# Criptografia
-Repositórios com conteúdos relacionados ao estudo de Criptografia
+# Criptografia - Hash
+Repositórios com conteúdos relacionados ao estudo de Criptografia e Hash
