@@ -1,4 +1,6 @@
-AES - Advanced Encryption Standard
+# AES - Advanced Encryption Standard
+
+---
 
 - Chaves de 128, 192 ou 256 bits
 - IV e Key tem que ter o mesmo tamanho
