@@ -3,7 +3,7 @@ using System.Text;
 
 Console.Write("Digite a entrada: ");
 var text = Console.ReadLine();
-var encodedText =new ASCIIEncoding().GetBytes(text);
+var encodedText = new ASCIIEncoding().GetBytes(text);
 
 var desAlgorithm = DES.Create();
 desAlgorithm.GenerateKey();
