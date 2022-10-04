@@ -19,4 +19,4 @@ Vamos ver quais os resultados com diferentes entradas no valor de X
 | 48 | 0 |
 | 77 | 1 |
 
-Nesse caso podemos ver que tendo a hash(digest) com valor **Zero** não conseguimos chegar no valor inicial. Claro esse é um exemplo mais básico de como funciona hash, os algoritmos mais comuns são bem mas complexos que isso, e ajudam a ter uma menor colisão de hash(digest).
+Nesse caso podemos ver que tendo a hash(digest) com valor **Zero** não conseguimos chegar no valor inicial. Claro esse é um exemplo mais básico de como funciona hash, os algoritmos mais comuns são bem mas complexos e seguros que isso, e ajudam a ter uma menor colisão de hash(digest), e tem uma maior aleatoriedade ao calcular a saída
