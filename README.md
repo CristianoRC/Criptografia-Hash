@@ -10,3 +10,5 @@ Repositórios com conteúdos relacionados ao estudo de Criptografia e Hash
 
 - [AES - Advanced Encryption Standard](./Criptografia%20Simetrica/Aes/)
 - [DES - Data Encryption Standard](./Criptografia%20Simetrica/Des/)
+- [Hash](./Hash/)
+- [Criptografia Assimétrica](./Criptografia%20Assimetrica/)
