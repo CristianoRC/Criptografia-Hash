@@ -19,3 +19,8 @@ Fluxo:
 
 
 ![-](https://cdn.comparitech.com/wp-content/uploads/2019/03/digital-signatures-2.jpg)
+
+
+## RSA
+
+É a forma de criptografia assimétrica mais utilizada do mundo, e seu nome é a primeira letra de seus criadores(Rivest-Shamir-Adleman)
